@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Items[
+  <!ELEMENT Item ANY>    
+  <!ATTLIST Item  id ID #REQUIRED >
+]>
+<Items>
+  <Item id="南山北水" amount="13579" />
+  <Item id="城里的星星" amount="1869" />
+</Items>
